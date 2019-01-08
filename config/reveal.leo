@@ -21,10 +21,34 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20190108212749.1"><vh>封面投影片</vh>
+<v t="leo.20190108212749.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.9"><vh>題目</vh>
+<v t="leo.20190108212245.1"><vh>開頭</vh></v>
+</v>
+<v t="leo.20190108212925.1"><vh>摘要</vh>
+<v t="leo.20190108212925.2"><vh>摘要</vh></v>
+</v>
+<v t="leo.20190108212939.1"><vh>動機</vh>
+<v t="leo.20190108212939.2"><vh>動機</vh></v>
+</v>
+<v t="leo.20190108212936.1"><vh>目的</vh>
+<v t="leo.20190108212936.2"><vh>目的</vh></v>
+</v>
+<v t="leo.20190108220110.1"><vh>軟體</vh>
+<v t="leo.20190108220110.2"><vh>軟體</vh></v>
+</v>
+<v t="leo.20190108220444.1"><vh>設計理念</vh>
+<v t="leo.20190108220444.2"><vh>設計理念</vh></v>
+</v>
+<v t="leo.20190108222643.1"><vh>問題</vh>
+<v t="leo.20190108222643.2"><vh>問題</vh></v>
+</v>
+<v t="leo.20190108225024.1" a="E"><vh>總結</vh>
+<v t="leo.20190108225024.2"><vh>總結</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -124,18 +148,6 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -325,6 +337,150 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190108212245.1">Independent Study
+
+## ACTIVITY WALK
+
+### 行走機構
+
+
+</t>
+<t tx="leo.20190108212749.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108212749.2">## 2018Fall AG3分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [ag3](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall AG3分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190108212925.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108212925.2">## 摘要
+
+* 本研究透過繪製零組件，設計一套行走機構系統
+* 討論並決議設計出簡化材料，更加美觀行走機構。
+
+* 使用V-rep模擬，檢查機構是否干涉，是否可行
+
+</t>
+<t tx="leo.20190108212936.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108212936.2">## 目的
+* 更加熟練Onshape的協同使用
+* 使用V-rep模擬分析
+
+</t>
+<t tx="leo.20190108212939.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108212939.2">## 動機
+* 根據老師所給的八個題目組內進行討論，最終依據喜好選擇行走機構
+
+
+</t>
+<t tx="leo.20190108220110.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108220110.2">## 軟體
+* Onshape
+* V-rep
+* Slovespace
+
+</t>
+<t tx="leo.20190108220444.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108220444.2">## 設計理念
+
+* 參考老師提供資料繪製圖形大綱
+
+* 保留腳部原型比例，修改連桿厚度
+
+* 增加腳底面積以增加摩擦力、穩定性
+
+* 傳動部分增加齒輪系，利用減速方式增加扭力
+
+</t>
+<t tx="leo.20190108222643.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108222643.2">## 問題
+
+* 本體包含馬達、減速齒輪，故繪製難度增加
+
+* 齒輪的減速比及轉向問題
+
+* 使用Onshape協同時，組合約束條件過多
+
+* Dummy的正確使用方式
+
+* 零件命名確實，才不致混亂
+
+* 零件連接複雜、易搞混，造成V-rep分析頻頻出錯
+</t>
+<t tx="leo.20190108225024.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108225024.2">## 總結
+
 </t>
 </tnodes>
 </leo_file>
